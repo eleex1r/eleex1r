@@ -1,13 +1,15 @@
-<h2>👋 Hi, I'm Andrey Gryukov</h2>
+<h2>👋 Hi there, I'm Andrey!</h2>
 
 ![](https://github.com/eleex1r/eleex1r/blob/master/assets/header_.png)
 
 [![Views](https://badges.pufler.dev/visits/eleex1r/eleex1r?label=Views&color=brightgreen)](https://github.com/eleex1r/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eleex1r/)
-[![Telegram](https://img.shields.io/badge/-Telegram-gray?style=flat&logo=telegram&logoColor=white&link=https://t.me/eleex1r/)](https://t.me/eleex1r/)
-[![GMail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eleex1r@gmail.com)
+[![GMail](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eleex1r@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-1A6790?style=flat&logo=telegram&logoColor=white&link=https://t.me/eleex1r/)](https://t.me/eleex1r/)
 
-<h2>🛠 Technologies & Tools</h2>
+🌱 I'm Intermediate Front-End Engineer
+
+<h2>💼 Technology Stack:</h2>
 
 ![Windows](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
 ![HTML5](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
